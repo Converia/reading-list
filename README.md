@@ -4,6 +4,7 @@ useful ressources for php developers
 ## General
 
 [Antipatterns](https://sourcemaking.com/antipatterns) - things you should avoid ;)
+[Best Practices](https://www.phptherightway.com) - design patterns and techniques of modern php development explained
 
 
 ## Security
