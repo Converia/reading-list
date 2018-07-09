@@ -13,7 +13,7 @@ useful ressources for php developers
 
 
 ## API Design ##
-* [Versioning](​http://www.baeldung.com/rest-versioning)
+* [Versioning](http://www.baeldung.com/rest-versioning)
 
 ## Symfony
 
