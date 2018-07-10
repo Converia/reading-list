@@ -24,4 +24,4 @@ useful ressources for php developers
 
 ## Tutorials
 
-* [HTML & CSS Tutorial](https://internetingishard.com/html-and-css/)
+* [HTML & CSS Beginner Tutorial](https://internetingishard.com/html-and-css/)
