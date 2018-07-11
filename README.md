@@ -6,6 +6,9 @@ useful ressources for php developers
 * [Antipatterns](https://sourcemaking.com/antipatterns) - things you should avoid ;)
 * [Best Practices](https://www.phptherightway.com) - design patterns and techniques of modern php development explained
 
+## Apache
+
+* [htaccess rewrites in depth](https://serverfault.com/questions/214512/redirect-change-urls-or-redirect-http-to-https-in-apache-everything-you-ever)
 
 ## Security
 
