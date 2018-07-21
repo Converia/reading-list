@@ -12,7 +12,7 @@ useful ressources for php developers
 
 ## Electron
 * [The bad parts](https://hackernoon.com/electron-the-bad-parts-2b710c491547)Especially notes on build and deployment
-
+* [Main vs render process](https://medium.com/cameron-nokes/deep-dive-into-electrons-main-and-renderer-processes-7a9599d5c9e2)Understanding the purpose
 
 ## Security
 
