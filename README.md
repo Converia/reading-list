@@ -10,6 +10,10 @@ useful ressources for php developers
 
 * [htaccess rewrites in depth](https://serverfault.com/questions/214512/redirect-change-urls-or-redirect-http-to-https-in-apache-everything-you-ever)
 
+## Electron
+* [The bad parts](https://hackernoon.com/electron-the-bad-parts-2b710c491547)Especially notes on build and deployment
+
+
 ## Security
 
 * [The 2018 Guide to Building Secure PHP Software](https://paragonie.com/blog/2017/12/2018-guide-building-secure-php-software)
