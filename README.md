@@ -22,6 +22,7 @@ useful ressources for php developers
 ## API Design ##
 * [Generic Software Versioning](https://semver.org)
 * [REST Versioning](http://www.baeldung.com/rest-versioning)
+* [Thin Apis with the final keyword in PHP](https://ocramius.github.io/blog/when-to-declare-classes-final/) - advanced
 
 ## Symfony
 
