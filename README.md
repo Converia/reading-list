@@ -24,9 +24,6 @@ useful ressources for php developers
 * [REST Versioning](http://www.baeldung.com/rest-versioning)
 * [Thin Apis with the final keyword in PHP](https://ocramius.github.io/blog/when-to-declare-classes-final/) - advanced
 
-## PHP ##
-* [https://ocramius.github.io/blog/when-to-declare-classes-final/](Final usage)
-
 ## Symfony
 
 ### Twig
