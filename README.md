@@ -30,6 +30,10 @@ useful ressources for php developers
 
 * [Reusable Twig Widgets](https://stackoverflow.com/questions/41792059/how-to-include-a-reusable-widget-in-symfony-twig)
 
+### Monolog
+
+*[Monolog Basics](https://codereviewvideos.com/course/log-log-it-s-better-than-bad-it-s-good/video/10-tips-for-a-better-symfony-debug-log)
+
 ## Tutorials
 
 * [HTML & CSS Beginner Tutorial](https://internetingishard.com/html-and-css/)
