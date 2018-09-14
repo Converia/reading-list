@@ -32,8 +32,12 @@ useful ressources for php developers
 
 ### Monolog
 
-*[Monolog Basics](https://codereviewvideos.com/course/log-log-it-s-better-than-bad-it-s-good/video/10-tips-for-a-better-symfony-debug-log)
+* [Monolog Basics](https://codereviewvideos.com/course/log-log-it-s-better-than-bad-it-s-good/video/10-tips-for-a-better-symfony-debug-log)
 
 ## Tutorials
 
 * [HTML & CSS Beginner Tutorial](https://internetingishard.com/html-and-css/)
+
+## Mysql
+
+* [Constraints OnUpdate Ondelete](https://stackoverflow.com/questions/6720050/foreign-key-constraints-when-to-use-on-update-and-on-delete)
