@@ -41,3 +41,7 @@ useful ressources for php developers
 ## Mysql
 
 * [Constraints OnUpdate Ondelete](https://stackoverflow.com/questions/6720050/foreign-key-constraints-when-to-use-on-update-and-on-delete)
+
+## git
+
+[Git Best Practices](https://programmerfriend.com/index.php/2019/03/01/git-best-practices/)
