@@ -5,6 +5,7 @@ useful ressources for php developers
 
 * [Antipatterns](https://sourcemaking.com/antipatterns) - things you should avoid ;)
 * [Best Practices](https://www.phptherightway.com) - design patterns and techniques of modern php development explained
+* [Unknown PHP Syntax](https://stackoverflow.com/questions/3737139/reference-what-does-this-symbol-mean-in-php?rq=1) - Quickly find the meaning of an unknow PHP expression or symbol
 
 ## Apache
 
