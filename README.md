@@ -46,4 +46,8 @@ useful ressources for php developers
 
 ## git
 
-[Git Best Practices](https://programmerfriend.com/index.php/2019/03/01/git-best-practices/)
+* [Git Best Practices](https://programmerfriend.com/index.php/2019/03/01/git-best-practices/)
+
+## Angular
+
+* [Angular tricks](https://espeo.eu/blog/30-angular-and-ts-tricks-and-tips-that-will-improve-your-application/)
